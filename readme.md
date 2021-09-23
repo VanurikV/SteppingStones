@@ -7,7 +7,8 @@ Puzzle game implemented on unity
 ![Demo](https://github.com/VanurikV/SteppingStones/blob/main/Img/GameGif.gif?raw=true)
 
 
-##Video
+## Video
+
 [![Watch the video](https://img.youtube.com/vi/nbDnjx4uaqM/hqdefault.jpg)](https://youtu.be/nbDnjx4uaqM)
 
 
