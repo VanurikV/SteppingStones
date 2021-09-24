@@ -9,7 +9,7 @@ Puzzle game implemented on unity
 
 ## Video
 
-[![Watch the video](https://img.youtube.com/vi/nbDnjx4uaqM/hqdefault.jpg)](https://youtu.be/nbDnjx4uaqM)
+[![Watch the video](https://img.youtube.com/vi/gJoDcxjcUFc/hqdefault.jpg)](https://youtu.be/gJoDcxjcUFc)
 
 
 
@@ -17,3 +17,4 @@ Puzzle game implemented on unity
 
 ## Downloads
 [Android APK file (36Mb)](https://github.com/VanurikV/SteppingStones/blob/main/Etc/Android/SteppingStones.apk?raw=true)
+
